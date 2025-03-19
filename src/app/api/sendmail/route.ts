@@ -12,7 +12,7 @@ export async function GET() {
 
   const mailOptions = {
     from: 'yourlinuxusername@edison.example.com',
-    to: 'xxxyyyzzz111@gmail.com',
+    to: 'alex8023@yandex.ru',
     subject: 'nodemailer test',
     text: 'hope it got there',
   };
